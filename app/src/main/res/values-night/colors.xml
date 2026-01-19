@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary colors (slightly adjusted for dark mode) -->
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+    
+    <!-- Favorite button colors -->
+    <color name="favorite_active">#F44336</color>
+    <color name="favorite_inactive">#9E9E9E</color>
+    
+    <!-- Read Later button colors -->
+    <color name="read_later_active">#4CAF50</color>
+    <color name="read_later_inactive">#9E9E9E</color>
+    
+    <!-- Dark mode compatible colors (Dark theme) -->
+    <color name="background_primary">#121212</color>
+    <color name="background_secondary">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="divider">#424242</color>
+    <color name="tab_background">#1E1E1E</color>
+    <color name="tab_text_unselected">#B0B0B0</color>
+</resources>

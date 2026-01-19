@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PebbleNews</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home</string>
+    <string name="details_fragment_label">Details</string>
+    <string name="search_fragment_label">Search</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="no_news_found">No news here… maybe the world is quiet today 😄\nTry another search!</string>
+    <string name="search_news">Search News</string>
+    <string name="no_results_found">No results found</string>
+
+</resources>

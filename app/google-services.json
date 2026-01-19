@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212219317374",
+    "project_id": "pebblenews-1a649",
+    "storage_bucket": "pebblenews-1a649.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212219317374:android:509a1f75436c2011421c2f",
+        "android_client_info": {
+          "package_name": "com.example.sampleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONVLzoEOWUgpndHOAH_FMBHpKDlzK2HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
