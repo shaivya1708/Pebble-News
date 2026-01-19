@@ -4,13 +4,11 @@
 
 ```
 Final improvements:
-
-1. App name should be "PebbleNews"
-2. Toolbar icons should be white and visible
-3. Show friendly message when no news found
-4. All screens should navigate to article details properly
-5. Make sure each user has separate favorites (multi-user support)
-6. Support dark mode (follow phone settings)
+1. Toolbar icons should be white and visible
+2. Show friendly message when no news found
+3. All screens should navigate to article details properly
+4. Make sure each user has separate favorites (multi-user support)
+5. Support dark mode (follow phone settings)
 ```
 
 ## What You Get
