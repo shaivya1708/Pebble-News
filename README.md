@@ -20,22 +20,6 @@ I created PebbleNews to:
 
 This project helped me understand how different Android components work together in a production-like environment.
 
----
-
-## 📸 Screenshots
-
-| Home Screen | Article Details | Settings |
-|:-----------:|:---------------:|:--------:|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Settings](screenshots/settings.png) |
-
-| Search | Favorites | Dark Mode |
-|:------:|:---------:|:---------:|
-| ![Search](screenshots/search.png) | ![Favorites](screenshots/favorites.png) | ![Dark](screenshots/dark_mode.png) |
-
-> 📝 *Add your own screenshots to a `screenshots/` folder*
-
----
-
 ## 📱 Features
 
 ### Core Features
