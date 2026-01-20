@@ -1,4 +1,4 @@
-# PebbleNews 📰
+# PebbleNews 
 
 > A personalized news reader app built from scratch as a learning project to explore modern Android development practices.
 
@@ -158,7 +158,7 @@ object Config {
 1. Open the project in Android Studio
 2. Wait for Gradle sync to complete
 3. Connect an Android device or start an emulator (API 24+)
-4. Click **Run** ▶️ or press `Shift + F10`
+4. Click **Run**  or press `Shift + F10`
 
 ---
 
@@ -179,7 +179,7 @@ The home screen has two tabs:
 
 ### 3. Set Your Preferences
 
-1. Tap the **Settings** icon (⚙️) in the toolbar
+1. Tap the **Settings** icon in the toolbar
 2. Select your preferred news categories:
    - Technology
    - Business
@@ -190,7 +190,7 @@ The home screen has two tabs:
 
 ### 4. Search News
 
-1. Tap the **Search** icon (🔍) in the toolbar
+1. Tap the **Search** icon in the toolbar
 2. Enter keywords and press search
 3. Browse results and tap any article for details
 
@@ -216,7 +216,7 @@ The app automatically follows your system theme. Toggle dark mode in your phone'
 
 ### 9. Logout
 
-1. Tap the **Settings** icon (⚙️)
+1. Tap the **Settings** icon
 2. Scroll down and tap **Logout**
 
 ---
