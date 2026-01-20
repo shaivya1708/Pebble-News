@@ -295,7 +295,7 @@ This project is for educational purposes.
 
 ---
 
-##Acknowledgments
+## Acknowledgments
 
 - [NewsAPI.org](https://newsapi.org/) - For providing the news data API
 - [Material Design](https://material.io/) - For design guidelines
@@ -303,7 +303,7 @@ This project is for educational purposes.
 
 ---
 
-##Contact
+## Contact
 
 **Shaivya Yadav**
 
@@ -311,7 +311,7 @@ Feel free to reach out if you have questions about this project!
 
 ---
 
-## 📜 Version History
+##  Version History
 
 | Version | Date | Changes |
 |---------|------|---------|
