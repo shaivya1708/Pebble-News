@@ -9,38 +9,28 @@
 
 ---
 
-## 🎯 Why I Built This
 
-I created PebbleNews to:
-- Learn **MVVM architecture** in a real-world context
-- Understand **Navigation Component** with SafeArgs
-- Practice building a complete app from authentication to data persistence
-- Implement **dark mode** support properly
-- Work with REST APIs using **Retrofit**
-
-This project helped me understand how different Android components work together in a production-like environment.
-
-## 📱 Features
+##  Features
 
 ### Core Features
-- 🔐 **User Authentication** - Local registration and login system with per-user data isolation
-- 📰 **Personalized News Feed** - "For You" tab curated based on your selected preferences
-- 🔥 **Top Headlines** - Latest breaking news from trusted sources worldwide
-- 🔍 **Search** - Find news articles by keyword with real-time results
+-  **User Authentication** - Local registration and login system with per-user data isolation
+-  **Personalized News Feed** - "For You" tab curated based on your selected preferences
+-  **Top Headlines** - Latest breaking news from trusted sources worldwide
+-  **Search** - Find news articles by keyword with real-time results
 
 ### Save & Organize
-- ❤️ **Favorites** - Heart articles you love for quick access
-- 📚 **Read Later** - Bookmark articles to read when you have time
-- 🏷️ **Categories** - Choose from Technology, Business, World, Economy
+-  **Favorites** - Heart articles you love for quick access
+-  **Read Later** - Bookmark articles to read when you have time
+- **Categories** - Choose from Technology, Business, World, Economy
 
 ### User Experience
-- 🌓 **Dark Mode** - Seamless light/dark theme that follows system settings
-- 🔗 **Open in Browser** - Read full articles on the original source
-- 📱 **Material Design 3** - Modern, clean UI following Google's design guidelines
+-  **Dark Mode** - Seamless light/dark theme that follows system settings
+-  **Open in Browser** - Read full articles on the original source
+-  **Material Design 3** - Modern, clean UI following Google's design guidelines
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -56,7 +46,7 @@ This project helped me understand how different Android components work together
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -87,7 +77,7 @@ This project helped me understand how different Android components work together
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 app/src/main/java/com/example/sampleapp/
@@ -130,7 +120,7 @@ app/src/main/java/com/example/sampleapp/
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 
@@ -172,7 +162,7 @@ object Config {
 
 ---
 
-## 📖 How to Use
+## App Guide
 
 ### 1. Registration & Login
 
@@ -206,8 +196,8 @@ The home screen has two tabs:
 
 ### 5. Save Articles
 
-- **Favorites**: Tap the ❤️ heart icon on any article
-- **Read Later**: Tap the 🕐 bookmark icon on any article
+- **Favorites**: Tap the heart icon on any article
+- **Read Later**: Tap the bookmark icon on any article
 
 ### 6. View Saved Articles
 
@@ -231,7 +221,7 @@ The app automatically follows your system theme. Toggle dark mode in your phone'
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### API Settings
 
@@ -248,7 +238,7 @@ The app automatically follows your system theme. Toggle dark mode in your phone'
 
 ---
 
-## 📱 Minimum Requirements
+## Minimum Requirements
 
 | Requirement | Value |
 |-------------|-------|
@@ -258,7 +248,7 @@ The app automatically follows your system theme. Toggle dark mode in your phone'
 
 ---
 
-## 🎨 Theme Colors
+## Theme Colors
 
 ### Light Mode
 - Primary: `#6200EE`
@@ -272,10 +262,9 @@ The app automatically follows your system theme. Toggle dark mode in your phone'
 
 ---
 
-## 🧠 What I Learned
+## Learnings
 
-Building this project taught me:
-
+Learning outcomes for me were: 
 1. **MVVM Pattern** - How ViewModels survive configuration changes and separate UI from business logic
 2. **Navigation Component** - Managing fragment transactions and passing data with SafeArgs
 3. **Repository Pattern** - Single source of truth for data management
@@ -286,19 +275,9 @@ Building this project taught me:
 
 ---
 
-## 🚧 Challenges I Faced
-
-| Challenge | Solution |
-|-----------|----------|
-| Dark mode text not visible | Used `@color/text_primary` instead of hardcoded colors |
-| Dialog content cut off | Wrapped dialog layout in ScrollView |
-| Per-user data isolation | Added email-based keys in SharedPreferences |
-| API date filtering | Created helper function `getFromDate()` for 7-day window |
-| Toolbar icons not visible | Applied `ThemeOverlay.AppCompat.Dark.ActionBar` |
-
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add offline caching with Room database
 - [ ] Implement push notifications for breaking news
@@ -310,13 +289,13 @@ Building this project taught me:
 
 ---
 
-## 📝 License
+##  License
 
 This project is for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+##Acknowledgments
 
 - [NewsAPI.org](https://newsapi.org/) - For providing the news data API
 - [Material Design](https://material.io/) - For design guidelines
@@ -324,7 +303,7 @@ This project is for educational purposes.
 
 ---
 
-## 📧 Contact
+##Contact
 
 **Shaivya Yadav**
 
@@ -340,4 +319,4 @@ Feel free to reach out if you have questions about this project!
 
 ---
 
-**Built with ❤️ as a learning project**
+
